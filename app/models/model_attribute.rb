@@ -1,0 +1,3 @@
+class FileDataAttribute < ApplicationRecord
+
+end
